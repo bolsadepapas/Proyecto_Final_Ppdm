@@ -4,20 +4,20 @@
 - Es una aplicación móvil administrativa orientada a la gestión y control de las finanzas personales.
 
 
-## Integrantes del Grupo
+### Integrantes del Grupo
 * Facundo Alejandro Sanz Palomino
 * Anthony Stefano Cervantes Cohaila
 
-## Docente
+### Docente
 * Josue Miguel Flores Parra
 
-## Institución
+### Institución
 * Universidad La Salle
 * **Curso:** Programación para Dispositivos Móviles
 
 
 
-## Estructura de Arquitectura MVVM 
+### Estructura de Arquitectura MVVM 
 
 El proyecto está estructurado siguiendo las mejores prácticas de desarrollo en Android, aplicando **MVVM**; a continuacion la estrutura de lo subido al repositorio:
 
